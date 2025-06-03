@@ -1,2 +1,2 @@
-#Loteria avanzada
+# Loteria avanzada
 >test
